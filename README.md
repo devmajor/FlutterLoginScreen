@@ -1,4 +1,4 @@
-# loginscreen
+![Image description](https://github.com/devmajor/FlutterLoginScreen/tree/master/images/screenshot.jpg)
 
 A new Flutter application.
 
