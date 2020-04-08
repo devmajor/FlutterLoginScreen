@@ -1,4 +1,4 @@
-![Image description](https://github.com/devmajor/FlutterLoginScreen/tree/master/images/screenshot.jpg)
+![Image description](https://github.com/devmajor/FlutterLoginScreen/tree/master/images/screenshot.png)
 
 A new Flutter application.
 
